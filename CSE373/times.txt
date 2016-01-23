@@ -1,0 +1,1226 @@
+From location 0:
+
+From location 1:
+
+From location 2:
+
+From location 3:
+    Location 4 takes 379.0 minutes
+
+From location 4:
+    Location 23 takes 378.0 minutes
+
+From location 5:
+
+From location 6:
+
+From location 7:
+
+From location 8:
+    Location 9 takes 304.0 minutes
+
+From location 9:
+    Location 10 takes 549.0 minutes
+    Location 18 takes 300.0 minutes
+
+From location 10:
+    Location 9 takes 549.0 minutes
+    Location 11 takes 409.0 minutes
+
+From location 11:
+    Location 10 takes 544.0 minutes
+    Location 12 takes 407.33334 minutes
+
+From location 12:
+    Location 11 takes 547.0 minutes
+    Location 13 takes 402.66666 minutes
+
+From location 13:
+    Location 12 takes 588.3333 minutes
+    Location 22 takes 401.0 minutes
+
+From location 14:
+
+From location 15:
+
+From location 16:
+
+From location 17:
+
+From location 18:
+
+From location 19:
+
+From location 20:
+
+From location 21:
+
+From location 22:
+    Location 13 takes 610.0 minutes
+
+From location 23:
+
+From location 24:
+
+From location 25:
+
+From location 26:
+
+From location 27:
+
+From location 28:
+
+From location 29:
+
+From location 30:
+
+From location 31:
+
+From location 32:
+
+From location 33:
+    Location 34 takes 294.0 minutes
+
+From location 34:
+    Location 36 takes 290.0 minutes
+
+From location 35:
+
+From location 36:
+    Location 37 takes 289.0 minutes
+
+From location 37:
+    Location 106 takes 288.0 minutes
+
+From location 38:
+
+From location 39:
+
+From location 40:
+
+From location 41:
+    Location 53 takes 286.0 minutes
+
+From location 42:
+
+From location 43:
+
+From location 44:
+
+From location 45:
+
+From location 46:
+
+From location 47:
+
+From location 48:
+
+From location 49:
+
+From location 50:
+
+From location 51:
+
+From location 52:
+
+From location 53:
+    Location 54 takes 286.0 minutes
+
+From location 54:
+    Location 59 takes 283.0 minutes
+
+From location 55:
+
+From location 56:
+
+From location 57:
+
+From location 58:
+    Location 61 takes 10.0 minutes
+    Location 67 takes 278.0 minutes
+
+From location 59:
+    Location 58 takes 282.0 minutes
+
+From location 60:
+
+From location 61:
+
+From location 62:
+
+From location 63:
+
+From location 64:
+
+From location 65:
+    Location 70 takes 636.8 minutes
+    Location 103 takes 292.2 minutes
+
+From location 66:
+    Location 67 takes 243.5 minutes
+    Location 103 takes 621.75 minutes
+
+From location 67:
+    Location 58 takes 8.0 minutes
+    Location 66 takes 645.3333 minutes
+    Location 68 takes 289.16666 minutes
+
+From location 68:
+    Location 61 takes 26.0 minutes
+    Location 67 takes 645.6667 minutes
+    Location 79 takes 350.5 minutes
+
+From location 69:
+
+From location 70:
+    Location 65 takes 293.4 minutes
+    Location 69 takes 711.0 minutes
+
+From location 71:
+    Location 70 takes 17.0 minutes
+
+From location 72:
+
+From location 73:
+
+From location 74:
+    Location 71 takes 20.0 minutes
+    Location 83 takes 292.0 minutes
+
+From location 75:
+    Location 74 takes 159.0 minutes
+
+From location 76:
+    Location 75 takes 110.333336 minutes
+
+From location 77:
+
+From location 78:
+    Location 79 takes 282.0 minutes
+
+From location 79:
+    Location 68 takes 656.6 minutes
+    Location 78 takes 350.33334 minutes
+
+From location 80:
+    Location 78 takes 284.0 minutes
+
+From location 81:
+
+From location 82:
+
+From location 83:
+    Location 80 takes 290.0 minutes
+
+From location 84:
+
+From location 85:
+
+From location 86:
+
+From location 87:
+
+From location 88:
+
+From location 89:
+
+From location 90:
+
+From location 91:
+
+From location 92:
+
+From location 93:
+
+From location 94:
+
+From location 95:
+
+From location 96:
+
+From location 97:
+
+From location 98:
+
+From location 99:
+
+From location 100:
+
+From location 101:
+
+From location 102:
+
+From location 103:
+    Location 65 takes 619.25 minutes
+    Location 66 takes 245.0 minutes
+
+From location 104:
+
+From location 105:
+
+From location 106:
+    Location 107 takes 287.0 minutes
+
+From location 107:
+    Location 41 takes 286.0 minutes
+
+From location 108:
+
+From location 109:
+
+From location 110:
+
+From location 111:
+
+From location 112:
+
+From location 113:
+
+From location 114:
+
+From location 115:
+
+From location 116:
+
+From location 117:
+
+From location 118:
+
+From location 119:
+
+From location 120:
+
+From location 121:
+
+From location 122:
+
+From location 123:
+
+From location 124:
+
+From location 125:
+
+From location 126:
+
+From location 127:
+
+From location 128:
+
+From location 129:
+
+From location 130:
+
+From location 131:
+
+From location 132:
+
+From location 133:
+
+From location 134:
+
+From location 135:
+
+From location 136:
+
+From location 137:
+
+From location 138:
+
+From location 139:
+
+From location 140:
+
+From location 141:
+
+From location 142:
+
+From location 143:
+
+From location 144:
+
+From location 145:
+
+From location 146:
+
+From location 147:
+
+From location 148:
+
+From location 149:
+
+From location 150:
+
+From location 151:
+
+From location 152:
+
+From location 153:
+
+From location 154:
+
+From location 155:
+
+From location 156:
+
+From location 157:
+
+From location 158:
+
+From location 159:
+
+From location 160:
+
+From location 161:
+
+From location 162:
+
+From location 163:
+
+From location 164:
+
+From location 165:
+
+From location 166:
+
+From location 167:
+
+From location 168:
+
+From location 169:
+
+From location 170:
+
+From location 171:
+
+From location 172:
+
+From location 173:
+
+From location 174:
+
+From location 175:
+
+From location 176:
+
+From location 177:
+
+From location 178:
+
+From location 179:
+
+From location 180:
+
+From location 181:
+
+From location 182:
+
+From location 183:
+
+From location 184:
+
+From location 185:
+
+From location 186:
+
+From location 187:
+
+From location 188:
+
+From location 189:
+
+From location 190:
+
+From location 191:
+
+From location 192:
+
+From location 193:
+
+From location 194:
+
+From location 195:
+
+From location 196:
+
+From location 197:
+
+From location 198:
+
+From location 199:
+
+From location 200:
+
+From location 201:
+
+From location 202:
+
+From location 203:
+
+From location 204:
+
+From location 205:
+
+From location 206:
+
+From location 207:
+
+From location 208:
+
+From location 209:
+
+From location 210:
+
+From location 211:
+
+From location 212:
+
+From location 213:
+
+From location 214:
+
+From location 215:
+
+From location 216:
+
+From location 217:
+
+From location 218:
+
+From location 219:
+
+From location 220:
+
+From location 221:
+
+From location 222:
+
+From location 223:
+
+From location 224:
+
+From location 225:
+
+From location 226:
+
+From location 227:
+
+From location 228:
+
+From location 229:
+
+From location 230:
+
+From location 231:
+
+From location 232:
+
+From location 233:
+
+From location 234:
+
+From location 235:
+
+From location 236:
+
+From location 237:
+
+From location 238:
+
+From location 239:
+
+From location 240:
+
+From location 241:
+
+From location 242:
+    Location 244 takes 591.0 minutes
+
+From location 243:
+    Location 244 takes 585.0 minutes
+
+From location 244:
+    Location 243 takes 585.5 minutes
+
+From location 245:
+
+From location 246:
+
+From location 247:
+
+From location 248:
+
+From location 249:
+
+From location 250:
+
+From location 251:
+
+From location 252:
+
+From location 253:
+
+From location 254:
+
+From location 255:
+
+From location 256:
+
+From location 257:
+
+From location 258:
+
+From location 259:
+
+From location 260:
+
+From location 261:
+
+From location 262:
+
+From location 263:
+
+From location 264:
+
+From location 265:
+
+From location 266:
+
+From location 267:
+
+From location 268:
+
+From location 269:
+
+From location 270:
+
+From location 271:
+
+From location 272:
+
+From location 273:
+
+From location 274:
+
+From location 275:
+
+From location 276:
+
+From location 277:
+
+From location 278:
+
+From location 279:
+    Location 280 takes 410.0 minutes
+
+From location 280:
+    Location 279 takes 550.0 minutes
+
+From location 281:
+    Location 280 takes 540.0 minutes
+    Location 282 takes 388.0 minutes
+
+From location 282:
+    Location 281 takes 477.0 minutes
+
+From location 283:
+    Location 282 takes 562.0 minutes
+
+From location 284:
+
+From location 285:
+    Location 283 takes 567.0 minutes
+    Location 286 takes 407.0 minutes
+
+From location 286:
+    Location 285 takes 549.6667 minutes
+    Location 287 takes 407.0 minutes
+
+From location 287:
+    Location 286 takes 485.5 minutes
+
+From location 288:
+    Location 289 takes 540.5 minutes
+
+From location 289:
+    Location 288 takes 540.0 minutes
+    Location 290 takes 493.0 minutes
+
+From location 290:
+    Location 289 takes 541.0 minutes
+
+From location 291:
+    Location 294 takes 466.0 minutes
+
+From location 292:
+    Location 294 takes 580.4 minutes
+    Location 303 takes 429.0 minutes
+
+From location 293:
+
+From location 294:
+    Location 291 takes 540.5 minutes
+    Location 292 takes 444.33334 minutes
+
+From location 295:
+
+From location 296:
+
+From location 297:
+
+From location 298:
+
+From location 299:
+
+From location 300:
+
+From location 301:
+    Location 302 takes 477.66666 minutes
+
+From location 302:
+    Location 304 takes 484.0 minutes
+    Location 307 takes 472.33334 minutes
+
+From location 303:
+    Location 292 takes 583.4 minutes
+    Location 301 takes 478.66666 minutes
+    Location 304 takes 609.0 minutes
+
+From location 304:
+    Location 303 takes 595.1667 minutes
+    Location 306 takes 482.0 minutes
+
+From location 305:
+    Location 303 takes 634.4 minutes
+
+From location 306:
+    Location 305 takes 590.6667 minutes
+    Location 308 takes 469.0 minutes
+
+From location 307:
+    Location 302 takes 485.0 minutes
+    Location 313 takes 382.0 minutes
+
+From location 308:
+    Location 306 takes 539.5 minutes
+    Location 314 takes 468.0 minutes
+
+From location 309:
+
+From location 310:
+    Location 309 takes 528.0 minutes
+
+From location 311:
+    Location 310 takes 529.0 minutes
+
+From location 312:
+    Location 311 takes 532.0 minutes
+    Location 313 takes 548.0 minutes
+
+From location 313:
+    Location 323 takes 436.66666 minutes
+
+From location 314:
+    Location 308 takes 581.0 minutes
+    Location 315 takes 458.0 minutes
+
+From location 315:
+    Location 314 takes 582.75 minutes
+
+From location 316:
+
+From location 317:
+
+From location 318:
+    Location 319 takes 352.0 minutes
+
+From location 319:
+    Location 330 takes 352.0 minutes
+
+From location 320:
+
+From location 321:
+    Location 315 takes 661.5 minutes
+
+From location 322:
+    Location 324 takes 452.0 minutes
+
+From location 323:
+    Location 318 takes 354.0 minutes
+
+From location 324:
+    Location 322 takes 610.0 minutes
+
+From location 325:
+    Location 320 takes 346.5 minutes
+
+From location 326:
+
+From location 327:
+    Location 324 takes 405.0 minutes
+
+From location 328:
+    Location 337 takes 349.0 minutes
+
+From location 329:
+
+From location 330:
+    Location 329 takes 351.0 minutes
+
+From location 331:
+
+From location 332:
+
+From location 333:
+    Location 334 takes 347.0 minutes
+
+From location 334:
+    Location 335 takes 345.0 minutes
+
+From location 335:
+    Location 336 takes 345.0 minutes
+
+From location 336:
+    Location 327 takes 407.0 minutes
+    Location 350 takes 345.0 minutes
+
+From location 337:
+    Location 338 takes 349.0 minutes
+
+From location 338:
+    Location 333 takes 348.0 minutes
+
+From location 339:
+
+From location 340:
+
+From location 341:
+
+From location 342:
+
+From location 343:
+
+From location 344:
+
+From location 345:
+
+From location 346:
+
+From location 347:
+
+From location 348:
+
+From location 349:
+    Location 350 takes 409.0 minutes
+    Location 366 takes 344.0 minutes
+
+From location 350:
+    Location 336 takes 408.0 minutes
+    Location 349 takes 344.0 minutes
+
+From location 351:
+
+From location 352:
+
+From location 353:
+
+From location 354:
+
+From location 355:
+
+From location 356:
+
+From location 357:
+
+From location 358:
+
+From location 359:
+
+From location 360:
+
+From location 361:
+
+From location 362:
+
+From location 363:
+
+From location 364:
+
+From location 365:
+
+From location 366:
+
+From location 367:
+
+From location 368:
+
+From location 369:
+
+From location 370:
+
+From location 371:
+
+From location 372:
+
+From location 373:
+
+From location 374:
+
+From location 375:
+
+From location 376:
+
+From location 377:
+
+From location 378:
+
+From location 379:
+
+From location 380:
+
+From location 381:
+
+From location 382:
+
+From location 383:
+
+From location 384:
+
+From location 385:
+
+From location 386:
+
+From location 387:
+
+From location 388:
+
+From location 389:
+
+From location 390:
+
+From location 391:
+
+From location 392:
+
+From location 393:
+
+From location 394:
+
+From location 395:
+
+From location 396:
+
+From location 397:
+
+From location 398:
+
+From location 399:
+
+From location 400:
+
+From location 401:
+
+From location 402:
+
+From location 403:
+
+From location 404:
+
+From location 405:
+
+From location 406:
+
+From location 407:
+
+From location 408:
+
+From location 409:
+
+From location 410:
+
+From location 411:
+
+From location 412:
+
+From location 413:
+
+From location 414:
+
+From location 415:
+
+From location 416:
+
+From location 417:
+
+From location 418:
+    Location 421 takes 505.0 minutes
+
+From location 419:
+
+From location 420:
+
+From location 421:
+    Location 422 takes 503.0 minutes
+
+From location 422:
+    Location 417 takes 500.0 minutes
+
+From location 423:
+
+From location 424:
+
+From location 425:
+
+From location 426:
+
+From location 427:
+    Location 439 takes 543.0 minutes
+
+From location 428:
+
+From location 429:
+
+From location 430:
+
+From location 431:
+
+From location 432:
+
+From location 433:
+
+From location 434:
+
+From location 435:
+
+From location 436:
+
+From location 437:
+
+From location 438:
+
+From location 439:
+    Location 438 takes 542.0 minutes
+
+From location 440:
+
+From location 441:
+
+From location 442:
+
+From location 443:
+
+From location 444:
+
+From location 445:
+
+From location 446:
+
+From location 447:
+
+From location 448:
+
+From location 449:
+
+From location 450:
+
+From location 451:
+
+From location 452:
+
+From location 453:
+
+From location 454:
+
+From location 455:
+
+From location 456:
+
+From location 457:
+
+From location 458:
+
+From location 459:
+
+From location 460:
+
+From location 461:
+
+From location 462:
+
+From location 463:
+
+From location 464:
+
+From location 465:
+
+From location 466:
+
+From location 467:
+
+From location 468:
+
+From location 469:
+
+From location 470:
+
+From location 471:
+
+From location 472:
+
+From location 473:
+
+From location 474:
+
+From location 475:
+
+From location 476:
+
+From location 477:
+
+From location 478:
+
+From location 479:
+
+From location 480:
+
+From location 481:
+
+From location 482:
+
+From location 483:
+
+From location 484:
+
+From location 485:
+
+From location 486:
+
+From location 487:
+
+From location 488:
+
+From location 489:
+
+From location 490:
+
+From location 491:
+
+From location 492:
+
+From location 493:
+
+From location 494:
+
+From location 495:
+
+From location 496:
+
+From location 497:
+
+From location 498:
+
+From location 499:
+
+From location 500:
+
+From location 501:
+
+From location 502:
+
+From location 503:
+
+From location 504:
+
+From location 505:
+
+From location 506:
+
+From location 507:
+
+From location 508:
+
+From location 509:
+
+From location 510:
+
+From location 511:
+
+From location 512:
+
+From location 513:
+
+From location 514:
+
+From location 515:
+
+From location 516:
+
+From location 517:
+
+From location 518:
+
+From location 519:
+
+From location 520:
+
+From location 521:
+
+From location 522:
+
+From location 523:
+
+From location 524:
+
+From location 525:
+
+From location 526:
+
+From location 527:
+
+From location 528:
+
+From location 529:
+
+From location 530:
+
+From location 531:
+
+From location 532:
+
+From location 533:
+
+From location 534:
+
+From location 535:
+
+From location 536:
+
+From location 537:
+
+From location 538:
+
+From location 539:
+
+From location 540:
+
+From location 541:
+
+From location 542:
+
+From location 543:
+
+From location 544:
+
+From location 545:
+
+From location 546:
+
+From location 547:
+
+From location 548:
+
+From location 549:
+
+From location 550:
+
+From location 551:
+
